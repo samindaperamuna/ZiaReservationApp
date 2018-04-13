@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zia\'s</string>
+    <string name="main_title">Zia\'s Restaurant</string>
+    <string name="gallery_title">Photo Gallery</string>
+    <string name="menu_title">Menu</string>
+    <string name="about_title">About Us</string>
+    <string name="offers_title">Offers</string>
+    <string name="reserve_title">Reserve Table</string>
+
+    <!-- About Us -->
+    <string name="opening_hours">Opening Hours</string>
+    <string name="open_hrs_mon">Mon: 5 am - 11pm</string>
+    <string name="open_hrs_tue">Tue: 5 am - 11pm</string>
+    <string name="open_hrs_wed">Wed: 5 am - 11pm</string>
+    <string name="open_hrs_thu">Thu: 5 am - 11pm</string>
+    <string name="open_hrs_fri">Fri: 5 am - 11:45pm</string>
+    <string name="open_hrs_sat">Sat: 5 am - 11:45pm</string>
+    <string name="open_hrs_sun">Sun: 2 pm - 11pm</string>
+    <string name="location">Location</string>
+    <string name="street">680 Holloway Rd</string>
+    <string name="city">London</string>
+    <string name="postcode">N19 3NP</string>
+</resources>
