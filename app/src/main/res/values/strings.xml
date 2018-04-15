@@ -20,4 +20,14 @@
     <string name="street">680 Holloway Rd</string>
     <string name="city">London</string>
     <string name="postcode">N19 3NP</string>
+
+    <!-- Reserve -->
+    <string name="full_name">Full name :</string>
+    <string name="email">E-mail :</string>
+    <string name="phone">Phone :</string>
+    <string name="guests">Number of guests :</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="special_requests">Any special requests?</string>
+    <string name="submit">Submit</string>
 </resources>
