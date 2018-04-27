@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Zia\'s</string>
     <string name="main_title">Zia\'s Restaurant</string>
-    <string name="gallery_title">Photo Gallery</string>
+    <string name="gallery_title">Gallery</string>
     <string name="menu_title">Menu</string>
     <string name="about_title">About Us</string>
     <string name="offers_title">Offers</string>
@@ -20,6 +20,12 @@
     <string name="street">680 Holloway Rd</string>
     <string name="city">London</string>
     <string name="postcode">N19 3NP</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="email_value">contactus@zias.co.uk</string>
+    <string name="phone_value">02083657834</string>
+
+    <string name="facebook">Connect with us on Facebook</string>
+    <string name="facebook_link">https://facebook.com/Zias-Archway-307516449340225/?locale2=en_GB</string>
 
     <!-- Reserve -->
     <string name="full_name">Full name :</string>
